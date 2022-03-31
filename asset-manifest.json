@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CrossStack-Q/Disney/static/css/main.83675304.css",
+    "main.js": "/CrossStack-Q/Disney/static/js/main.d3bc44a7.js",
+    "static/js/787.349487fd.chunk.js": "/CrossStack-Q/Disney/static/js/787.349487fd.chunk.js",
+    "static/media/login-background.jpg": "/CrossStack-Q/Disney/static/media/login-background.05b1a1b3088cbb458939.jpg",
+    "static/media/cta-logo-two.png": "/CrossStack-Q/Disney/static/media/cta-logo-two.e69ae55254630c715843.png",
+    "static/media/cta-logo-one.svg": "/CrossStack-Q/Disney/static/media/cta-logo-one.1e2a5ccbbcbea0879d03e030e1e295ff.svg",
+    "static/media/logo.svg": "/CrossStack-Q/Disney/static/media/logo.8205aae82a3c67ca943e8628e2183b0d.svg",
+    "static/media/movie-icon.svg": "/CrossStack-Q/Disney/static/media/movie-icon.1a6f6ada8d37edf9c4a59f7ad16816f5.svg",
+    "index.html": "/CrossStack-Q/Disney/index.html",
+    "static/media/series-icon.svg": "/CrossStack-Q/Disney/static/media/series-icon.4d410db656710c14710332d27cec00a9.svg",
+    "static/media/search-icon.svg": "/CrossStack-Q/Disney/static/media/search-icon.46aff20f64bfe1a300ddd5ef420fc006.svg",
+    "static/media/watchlist-icon.svg": "/CrossStack-Q/Disney/static/media/watchlist-icon.0b5a945bede19872d5d95984d35ce12d.svg",
+    "static/media/original-icon.svg": "/CrossStack-Q/Disney/static/media/original-icon.d7752d89e5a5d2b6276338bea45f413b.svg",
+    "static/media/home-icon.svg": "/CrossStack-Q/Disney/static/media/home-icon.b6a11f9b406f2f13cd82608a276428e5.svg",
+    "main.83675304.css.map": "/CrossStack-Q/Disney/static/css/main.83675304.css.map",
+    "main.d3bc44a7.js.map": "/CrossStack-Q/Disney/static/js/main.d3bc44a7.js.map",
+    "787.349487fd.chunk.js.map": "/CrossStack-Q/Disney/static/js/787.349487fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83675304.css",
+    "static/js/main.d3bc44a7.js"
+  ]
+}
